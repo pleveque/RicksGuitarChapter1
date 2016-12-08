@@ -45,7 +45,7 @@ public class Guitar {
         return price;
     }
 
-    public void setPrice(double price) {
-        this.price = price;
+    public void setPrice(float newPrice) {
+        this.price = newPrice;
     }
 }
